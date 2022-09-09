@@ -1,8 +1,8 @@
-#include<unistd.h>
+#include <unistd.h>
 /**
- * main - prints the standrad error sandwiched around the  standard outpu/t
+ * main - Entry point
  *
- * Return: returns 1
+ * Return: Always 1 (Success)
  */
 int main(void)
 {
