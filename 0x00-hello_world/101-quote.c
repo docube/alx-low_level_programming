@@ -1,8 +1,9 @@
-#include<unistd.h>
+#include <stdio.h>
+#include <string.h>
+#include <unistd.h>
 /**
- * main - main - prints the standrad error sandwiched around the  standard output
- * 
- * Return: returns 1
+ * main - main block
+ * Return: 1
  */
 int main(void)
 {
